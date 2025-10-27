@@ -1,4 +1,3 @@
-
 // 추상 클래스, 추상 메서드
 public class Example05 {
     public static void main(String[] args) {
